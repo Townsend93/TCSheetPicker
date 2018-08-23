@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "多级联动选择器"
 
-  s.homepage     = "https://tanchenggithub/TCSheetPicker"
+  s.homepage     = "https://github.com/tanchenggithub/TCSheetPicker"
 
   s.license      = "MIT"
 
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://tanchenggithub/TCSheetPicker.git", :tag => s.version }
 
-  s.source_files  = "TCSheetPicker/TCSheetPicker/*.swift"
+  s.source_files  = "TCSheetPicker/Core/*.swift"
 
 
    s.framework  = "UIKit"
