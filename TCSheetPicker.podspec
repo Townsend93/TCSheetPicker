@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
 
 
 
-  s.source       = { :git => "https://tanchenggithub/TCSheetPicker.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/tanchenggithub/TCSheetPicker.git", :tag => s.version }
 
   s.source_files  = "TCSheetPicker/Core/*.swift"
 
